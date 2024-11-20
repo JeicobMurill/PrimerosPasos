@@ -3,4 +3,4 @@
 
 ## Captura de Pantalla Ejercicio 1
 
-![Capturas](Ejercicio1.png)
+![Capturas](Capturas/Ejercicio1.png)
