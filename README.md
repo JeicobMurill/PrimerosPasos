@@ -100,3 +100,34 @@
 ## Captura de Pantalla Ejercicio 20
 
 ![Capturas](Capturas/Ejercicio20.png)
+
+
+## Captura de Pantalla Ejercicio 21
+
+![Capturas](Capturas/Ejercicio21.png)
+
+
+## Captura de Pantalla Ejercicio 22
+
+![Capturas](Capturas/Ejercicio22.png)
+
+
+## Captura de Pantalla Ejercicio 23
+
+![Capturas](Capturas/Ejercicio23.png)
+
+
+## Captura de Pantalla Ejercicio 24
+
+![Capturas](Capturas/Ejercicio24.png)
+
+
+## Captura de Pantalla Ejercicio 26
+
+![Capturas](Capturas/Ejercicio26.png)
+
+
+## Captura de Pantalla Ejercicio 27
+
+![Capturas](Capturas/Ejercicio27.png)
+
